@@ -1,5 +1,5 @@
 <h1 align="center">Hola 👋, Me llamo Jhon Jaimes Cayetano</h1>
-<h3 align="center">Estudiante de Ingeniería de Software</h3>
+<h3 align="center">Soy Estudiante de Ingeniería de Software</h3>
 
 - 🌱 I’m currently learning **GIT | SASS | BOOTSTRAP**
 
