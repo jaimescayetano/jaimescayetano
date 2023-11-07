@@ -1,5 +1,7 @@
 <h1 align="center">Hola 👋, Me llamo Jhon Jaimes Cayetano</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">Estudiante de Ingeniería de Software</h3>
+
+- 🌱 I’m currently learning **GIT | SASS | BOOTSTRAP**
 
 - 💬 Ask me about **HTML | CSS | JS | PYTHON | JAVA | PHP | SQL**
 
