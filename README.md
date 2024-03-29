@@ -5,13 +5,13 @@
 <a href = "mailto:jaimescayetanoj@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="@jaimescayetano"  /></a>
   </p>
 <br>
-<h2>Sobre mi 😃</h2>
+<h2>Sobre mí 😃</h2>
 <!--Intro start-->
 
 <p align="left">
-🎓 ESTUDIANTE DE INGENIERÍA DE SOFTWARE CON IA
+🎓 ESTUDIANTE: INGENIERÍA DE SOFTWARE CON IA (En curso)
 
-📕 ACTUALMENTE ESTOY APRENDIENDO: GIT | SASS | Vue 
+📕 APRENDIENDO: Laravel | Docker | C# | Design Patterns 
 
 💻 PREGUNTAME SOBRE: HTML | CSS | JS | PYTHON | JAVA | PHP | SQL
 
