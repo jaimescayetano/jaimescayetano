@@ -11,7 +11,7 @@
 <p align="left">
 🎓 Studies: Software Engineering with AI (In progress)
 
-📕 Learning: Laravel | Docker | C# | Design Patterns 
+📕 Learning: Laravel | Docker | C# | Design Patterns | Figma
 
 💻 Ask me about: HTML | CSS | JS | PYTHON | JAVA | PHP | SQL
 
