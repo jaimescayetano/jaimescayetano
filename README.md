@@ -1,26 +1,26 @@
-### <h1>&gt; Hola, soy Jaimes Cayetano <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"> </h1>
+### <h1>&gt; Hello, I'm Jaimes Cayetano <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"> </h1>
 
 <p align="left">
 <a href="https://www.linkedin.com/in/jaimescayetano" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="jaimescayetano"/></a>
 <a href = "mailto:jaimescayetanoj@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="@jaimescayetano"  /></a>
   </p>
 <br>
-<h2>Sobre mí 😃</h2>
+<h2>About me 😃</h2>
 <!--Intro start-->
 
 <p align="left">
-🎓 ESTUDIANTE: INGENIERÍA DE SOFTWARE CON IA (En curso)
+🎓 Studies: Software Engineering with AI (In progress)
 
-📕 APRENDIENDO: Laravel | Docker | C# | Design Patterns 
+📕 Learning: Laravel | Docker | C# | Design Patterns 
 
-💻 PREGUNTAME SOBRE: HTML | CSS | JS | PYTHON | JAVA | PHP | SQL
+💻 Ask me about: HTML | CSS | JS | PYTHON | JAVA | PHP | SQL
 
-📫 Contacto: **jaimescayetanoj@gmail.com**
+📫 Contact: **jaimescayetanoj@gmail.com**
 <!--Intro end-->
   </p>  
 <br>
 
-<h2 >Tecnologias 👨🏻‍💻</h2>
+<h2 >Technologies 👨🏻‍💻</h2>
 <!--tech stack icons-->
 <p align="left">
   <a href="https://skillicons.dev">
@@ -29,7 +29,7 @@
 </p>
 <br>
 
-<h2 >Herramientas 👨🏻‍💻</h2>
+<h2 >Tools 👨🏻‍💻</h2>
 <!--tech stack icons-->
 <p align="left">
   <a href="https://skillicons.dev">
@@ -39,7 +39,7 @@
 <br>
 <!-------------------------->
 <div id="proyectos">
-<h2 >Algunos proyectos👨🏻‍💻</h2>
+<h2 >Projects 👨🏻‍💻</h2>
 
 <table align="left" >
 <tr border="none">
