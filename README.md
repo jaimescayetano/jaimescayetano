@@ -12,6 +12,14 @@
 
 <br>
 
+
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=jaimescayetano&show_icons=true&count_private=true&hide_border=true&title_color=02D9F7FF&icon_color=02D9F7FF&text_color=c9d1d9&bg_color=0d1117" alt="Bastian Dev github stats" /> 
+  
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaimescayetano&layout=compact&hide_border=true&title_color=02D9F7FF&text_color=02D9F7FF&bg_color=0d1117" />
+</div> 
+
+
 <h2>About me 😃</h2>
 <!--Intro start-->
 
@@ -31,7 +39,7 @@
 <!--tech stack icons-->
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,pug,css,sass,nodejs,py,qt,java,php,vue,laravel,sqlite,mysql&perline=12" />
+    <img src="https://skillicons.dev/icons?i=html,css,sass,nodejs,py,java,php,cs,vue,sqlite,mysql&perline=12" />
   </a>
 </p>
 <br>
@@ -40,10 +48,21 @@
 <!--tech stack icons-->
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=eclipse,git,github,linux,vscode&perline=12" />
+    <img src="https://skillicons.dev/icons?i=eclipse,git,github,linux,vscode,figma,visualstudio&perline=12" />
   </a>
 </p>
 <br>
+
+<h2 >Interests 👽</h2>
+<!--tech stack icons-->
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=ts,docker,react,laravel,arch,ps&perline=12" />
+  </a>
+</p>
+<br>
+
+
 <!-------------------------->
 <div id="proyectos">
 <h2 >Projects 👨🏻‍💻</h2>
