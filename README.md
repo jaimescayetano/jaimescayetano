@@ -1,6 +1,6 @@
 <p align="center">
   <picture>
-    <img src="https://raw.githubusercontent.com/jaimescayetano/jaimescayetano/main/src/logo.png">
+    <img src="https://github.com/jaimescayetano/jaimescayetano/blob/main/src/logo.png">
   </picture>
   <h3 align="center">SOFTWARE ENGINEERING STUDENT</h3>
 </p>
