@@ -19,17 +19,6 @@
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaimescayetano&layout=compact&hide_border=true&title_color=02D9F7FF&text_color=02D9F7FF&bg_color=0d1117" />
 </div> 
 
-
-<h2>About me 😃</h2>
-<!--Intro start-->
-
-<p align="left">
-🎓 Studies: Software Engineering with AI (In progress)
-
-📕 Learning: Laravel | Docker | C# | Design Patterns | Figma
-
-💻 Ask me about: HTML | CSS | JS | PYTHON | JAVA | PHP | SQL
-
 <!--Intro end-->
   </p>  
 <br>
