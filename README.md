@@ -1,10 +1,17 @@
-### <h1>&gt; Hello, I'm Jaimes Cayetano <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"> </h1>
+<p align="center">
+  <picture>
+    <img src="https://raw.githubusercontent.com/jaimescayetano/jaimescayetano/main/src/logo.png">
+  </picture>
+  <h3 align="center">SOFTWARE ENGINEERING STUDENT</h3>
+</p>
 
-<p align="left">
-<a href="https://www.linkedin.com/in/jaimescayetano" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="jaimescayetano"/></a>
-<a href = "mailto:jaimescayetanoj@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="@jaimescayetano"  /></a>
-  </p>
+<p align="center">
+  <a href="https://www.linkedin.com/in/jaimescayetano" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="jaimescayetano"/></a>
+  <a href = "mailto:jaimescayetanoj@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="@jaimescayetano"  /></a>
+</p>
+
 <br>
+
 <h2>About me 😃</h2>
 <!--Intro start-->
 
