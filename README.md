@@ -30,7 +30,6 @@
 
 💻 Ask me about: HTML | CSS | JS | PYTHON | JAVA | PHP | SQL
 
-📫 Contact: **jaimescayetanoj@gmail.com**
 <!--Intro end-->
   </p>  
 <br>
