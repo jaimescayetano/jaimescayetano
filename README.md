@@ -3,6 +3,7 @@
     <img src="https://github.com/jaimescayetano/jaimescayetano/blob/main/src/logo.png">
   </picture>
   <h3 align="center">SOFTWARE ENGINEERING STUDENT</h3>
+  ![](https://komarev.com/ghpvc/?username=jaimescayetano&color=green)
 </p>
 
 <p align="center">
