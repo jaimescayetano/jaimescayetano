@@ -12,33 +12,12 @@
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaimescayetano&layout=compact&hide_border=true&title_color=02D9F7FF&text_color=02D9F7FF&bg_color=0d1117" />
 </div> 
 
-<!--Intro end-->
-  </p>  
-<br>
-
-<h2 >Technologies 👨🏻‍💻</h2>
-<!--tech stack icons-->
-<p align="left">
+<div align="center">
+  <h3 align="center">Technologies 👨🏻‍💻</h3>
+  <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,nodejs,py,java,php,mysql&perline=12" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,py,php,mysql&perline=12" /> <br>
+    <img src="https://skillicons.dev/icons?i=docker,laravel,git,linux&perline=12" />
   </a>
 </p>
-<br>
-
-<h2 >Tools 👨🏻‍💻</h2>
-<!--tech stack icons-->
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=eclipse,git,github,linux,vscode,figma,visualstudio&perline=12" />
-  </a>
-</p>
-<br>
-
-<h2 >Interests 👽</h2>
-<!--tech stack icons-->
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ts,docker,react,laravel,arch,ps&perline=12" />
-  </a>
-</p>
-<br>
+</div>
