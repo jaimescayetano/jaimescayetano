@@ -3,7 +3,6 @@
 <h3 align="center">SOFTWARE ENGINEERING STUDENT</h3>
   
 [![](https://img.shields.io/badge/Linkedin-0a66c2)](https://www.linkedin.com/in/jaimescayetano)
-[![](https://img.shields.io/badge/Email-9756fa)](https://tech.lgbt/@innng)
 </div>
 
 <div align="center">  
