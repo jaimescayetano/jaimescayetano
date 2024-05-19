@@ -15,7 +15,7 @@
   <h3 align="center">Technologies 👨🏻‍💻</h3>
   <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,py,php,mysql&perline=12" /> <br>
+    <img src="https://skillicons.dev/icons?i=html,css,js,py,php,mysql&perline=12" /> <br>
     <img src="https://skillicons.dev/icons?i=docker,laravel,git,linux&perline=12" />
   </a>
 </p>
