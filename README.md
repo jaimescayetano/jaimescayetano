@@ -7,7 +7,7 @@
 
 <div align="center">  
   <img height="195px" src="https://github-readme-stats-eight-theta.vercel.app/api?username=jaimescayetano&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&title_color=02D9F7FF&border_color=02D9F7FF" alt="JaimesCayetano" /> 
-  <img height="195px" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=jaimescayetano&layout=compact&langs_count=8&theme=algolia&title_color=02D9F7FF&border_color=02D9F7FF" alt="JaimesCayetano" />
+  <img height="195px" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=jaimescayetanoj&layout=compact&langs_count=8&theme=algolia&title_color=02D9F7FF&border_color=02D9F7FF" alt="JaimesCayetano" />
 </div> 
 
 <div align="center">
