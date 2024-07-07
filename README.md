@@ -2,7 +2,10 @@
 <h1 align="center">👋 Hello world, I'm JaimesCayetano</h1>
 <h3 align="center">SOFTWARE ENGINEERING STUDENT</h3>
   
-[![](https://img.shields.io/badge/Linkedin-0a66c2)](https://www.linkedin.com/in/jaimescayetano)
+[![Linkedin](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jaimescayetano)
+[![Gmail](https://img.shields.io/badge/gmail-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white)]()
+[![Portfolio](https://img.shields.io/badge/portfolio-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black)]()
+
 </div>
 
 <div align="center">  
