@@ -32,4 +32,10 @@
   </div>
 </p>
 
+<br>
 
+<p align="center">
+  <samp>
+    Contact: jaimescayetanoj@gmail.com
+  </samp>
+</p>
