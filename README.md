@@ -15,16 +15,16 @@
 <div align="center">
 
 ## Technologies 💻
-![HTML5](https://raw.githubusercontent.com/jaimescayetano/images/be5e4a0c8c4a20bccb4998e4531f602571704b03/icons/html-icon.svg)
-![CSS3](https://raw.githubusercontent.com/jaimescayetano/images/be5e4a0c8c4a20bccb4998e4531f602571704b03/icons/css-icon.svg)
-![JavaScript](https://raw.githubusercontent.com/jaimescayetano/images/be5e4a0c8c4a20bccb4998e4531f602571704b03/icons/javascript.svg)
-![PHP](https://raw.githubusercontent.com/jaimescayetano/images/be5e4a0c8c4a20bccb4998e4531f602571704b03/icons/php-icon.svg)
-![Python](https://raw.githubusercontent.com/jaimescayetano/images/be5e4a0c8c4a20bccb4998e4531f602571704b03/icons/python-icon.svg)
+![HTML5](https://raw.githubusercontent.com/jaimescayetano/images/d585e50da9089e49b9f3d4c7c39195b49d827f35/icons/html-icon.svg)
+![CSS3](https://raw.githubusercontent.com/jaimescayetano/images/d585e50da9089e49b9f3d4c7c39195b49d827f35/icons/css-icon.svg)
+![JavaScript](https://raw.githubusercontent.com/jaimescayetano/images/d585e50da9089e49b9f3d4c7c39195b49d827f35/icons/javascript.svg)
+![PHP](https://raw.githubusercontent.com/jaimescayetano/images/d585e50da9089e49b9f3d4c7c39195b49d827f35/icons/php-icon.svg)
+![Python](https://raw.githubusercontent.com/jaimescayetano/images/d585e50da9089e49b9f3d4c7c39195b49d827f35/icons/python-icon.svg)
 <br/>
-![Laravel](https://raw.githubusercontent.com/jaimescayetano/images/be5e4a0c8c4a20bccb4998e4531f602571704b03/icons/laravel-icon.svg)
-![React](https://raw.githubusercontent.com/jaimescayetano/images/be5e4a0c8c4a20bccb4998e4531f602571704b03/icons/react-icon.svg)
-![Tailwind](https://raw.githubusercontent.com/jaimescayetano/images/1ea43d122572467a280150ac09b6503577572df4/icons/tailwind-icon.svg)
+![Laravel](https://raw.githubusercontent.com/jaimescayetano/images/d585e50da9089e49b9f3d4c7c39195b49d827f35/icons/laravel-icon.svg)
+![React](https://raw.githubusercontent.com/jaimescayetano/images/d585e50da9089e49b9f3d4c7c39195b49d827f35/icons/react-icon.svg)
+![Tailwind](https://raw.githubusercontent.com/jaimescayetano/images/d585e50da9089e49b9f3d4c7c39195b49d827f35/icons/tailwind-icon.svg)
 <br/>
-![Git](https://raw.githubusercontent.com/jaimescayetano/images/1ea43d122572467a280150ac09b6503577572df4/icons/git-icon.svg)
-![Docker](https://raw.githubusercontent.com/jaimescayetano/images/1ea43d122572467a280150ac09b6503577572df4/icons/docker-icon.svg)
+![Git](https://raw.githubusercontent.com/jaimescayetano/images/d585e50da9089e49b9f3d4c7c39195b49d827f35/icons/git-icon.svg)
+![Docker](https://raw.githubusercontent.com/jaimescayetano/images/d585e50da9089e49b9f3d4c7c39195b49d827f35/icons/docker-icon.svg)
 </div>
