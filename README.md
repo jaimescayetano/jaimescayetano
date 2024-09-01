@@ -4,7 +4,6 @@
   
 [![Linkedin](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jaimescayetano)
 [![Gmail](https://img.shields.io/badge/gmail-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white)]()
-[![Portfolio](https://img.shields.io/badge/portfolio-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black)]()
 
 </div>
 
